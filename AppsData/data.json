@@ -1,0 +1,10 @@
+[
+    {
+        "Let_CPU": "90",
+        "Msg_CPU": "แจ้งเตือน CPU 90%",
+        "CPU_Notify": "True",
+        "Let_RAM": "90",
+        "Msg_RAM": "แจ้งเตือน RAM 90%",
+        "RAM_Notify": "True"
+    }
+]
